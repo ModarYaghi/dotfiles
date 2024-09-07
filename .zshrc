@@ -9,6 +9,7 @@ export ZSH="$HOME/.oh-my-zsh"
 export PATH="/mnt/c/Users/fmnya/anaconda3/condabin:$PATH"
 # eval "$(/mnt/c/Users/fmnya/anaconda3/condabin/conda shell.bash hook)"
 
+export SSH_ASKPASS='/usr/bin/SSH_ASKPASS'
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time Oh My Zsh is loaded, in which case,
